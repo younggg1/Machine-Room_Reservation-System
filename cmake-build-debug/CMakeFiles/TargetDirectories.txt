@@ -1,0 +1,3 @@
+E:/JetBrains/CLion 2024.1/Project/Machine-Room_Reservation-System/cmake-build-debug/CMakeFiles/Machine_Room_Reservation_System.dir
+E:/JetBrains/CLion 2024.1/Project/Machine-Room_Reservation-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/JetBrains/CLion 2024.1/Project/Machine-Room_Reservation-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
