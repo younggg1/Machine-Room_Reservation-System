@@ -10,6 +10,8 @@
 #跟着B站某马程序员C++教程做的基于STL的机房预约系统，使用了封装，继承，多态等技术，使用了多种容器如vector，map
 
 
+#原视频链接https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=a1c3e37616f65328c2f444469c60b361
+
 
 #基本结构如图
 
